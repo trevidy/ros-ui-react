@@ -1,5 +1,5 @@
-//import { RealGamepad } from 'ros-ui-react';
-import { RealGamepad } from './RealGamepad';
+import { RealGamepad } from 'ros-ui-react';
+//import { RealGamepad } from './RealGamepad';
 import { ImageStream } from 'ros-ui-react';
 import './App.css';
 import './scss/style.scss';
